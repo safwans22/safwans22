@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safwans22" alt="safwans22" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, & Flutter**
+- 🌱 I’m currently learning **ML, JS, & Flutter**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence projects**
 
